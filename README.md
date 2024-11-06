@@ -5,8 +5,6 @@ git clone https://github.com/Sakamochanq/momo.git
 cd momo
 ```
 
-<br>
-
 ### Deploy
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
